@@ -1,2 +1,2 @@
 # hello-world
-A place, where ideas and resources are stored.
+A place, where ideas and resources are stored. Here also others can give input whenever they want ...
